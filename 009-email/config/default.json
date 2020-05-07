@@ -1,0 +1,10 @@
+{
+  "mailer": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "maymie.howe97@ethereal.email",
+      "pass": "4CcYa8hD77na1DUheJ"
+    }
+  }
+}
